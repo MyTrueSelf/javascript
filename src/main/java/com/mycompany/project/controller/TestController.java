@@ -17,7 +17,12 @@ public class TestController {
 		
 	}
 	
+
 	public void mehtod6() {
+	}
+	
+	public void method5() {
+
 		
 	}
 }
