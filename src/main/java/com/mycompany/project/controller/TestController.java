@@ -17,7 +17,5 @@ public class TestController {
 		
 	}
 	
-	public void method5() {
-		
-	}
+	
 }
