@@ -13,11 +13,5 @@ public class TestController {
 		
 	}
 	
-	public void method4() {
-		
-	}
 	
-	public void method5() {
-		
-	}
 }
